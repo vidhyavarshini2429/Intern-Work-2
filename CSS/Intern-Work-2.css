@@ -267,7 +267,7 @@ body{
 }
 .firstpage
 {
-    background-image: url(/Images/Rectangle\ 24.png);
+    background-image: url(Images/Rectangle\ 24.png);
     background-position: center;
     background-size: cover;
     height: 1200px;
@@ -278,7 +278,7 @@ body{
 @media (max-width:728px) {
     .firstpage
 {
-    background-image: url(/Images/Rectangle\ 24.png);
+    background-image: url(Images/Rectangle\ 24.png);
     background-position: center;
     background-size: cover;
     height: 400px;
@@ -290,7 +290,7 @@ body{
 @media (min-width:729px) and (max-width:1023px) {
     .firstpage
 {
-    background-image: url(/Images/Rectangle\ 24.png);
+    background-image: url(Images/Rectangle\ 24.png);
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -2235,7 +2235,7 @@ body{
 }
 .aboutus
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -2246,7 +2246,7 @@ body{
 {
     .aboutus
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -2257,7 +2257,7 @@ body{
 @media (min-width:729px) and (max-width:1023px){
 .aboutus
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3077,7 +3077,7 @@ body{
 }
 .services
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3089,7 +3089,7 @@ body{
 {
     .services
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3102,7 +3102,7 @@ body{
 {
     .services
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -4358,7 +4358,7 @@ body{
 }
 .project-projects
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -4370,7 +4370,7 @@ body{
 {
     .project-projects
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -4383,7 +4383,7 @@ body{
 {
     .project-projects
 {
-    background-image: url(/Images/services\ Background.png);
+    background-image: url(Images/services\ Background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -5471,7 +5471,7 @@ body{
 }
 .contact
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -5484,7 +5484,7 @@ body{
 {
     .contact
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -5497,7 +5497,7 @@ body{
 {
     .contact
 {
-    background-image: url(/Images/about\ Us\ background.png);
+    background-image: url(Images/about\ Us\ background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
